@@ -74,7 +74,6 @@ class CVLandingViewModel extends BaseModel {
   }
 
   void setSelectedIndexTo(int index) {
-    Get.back();
     if (_selectedIndex != index) {
       selectedIndex = index;
     }
