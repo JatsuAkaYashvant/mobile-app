@@ -1010,10 +1010,10 @@ packages:
     dependency: "direct main"
     description:
       name: oauth2_client
-      sha256: "74d1024ce3bd8c6012d079e075068c94d64d804a40bcb3d4adb7348bf0c278f7"
+      sha256: ad2e88b0a7bb6d5c8c4277a017050f3850b7ea88754d518af90f873797af6da8
       url: "https://pub.dev"
     source: hosted
-    version: "4.3.2"
+    version: "4.3.3"
   objective_c:
     dependency: transitive
     description:
