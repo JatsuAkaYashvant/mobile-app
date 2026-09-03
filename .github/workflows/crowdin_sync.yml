@@ -3,8 +3,8 @@ name: Sync crowdin translation
 on:
   push:
     paths: # run action automatically when app_en.arb file is changed
-      - 'lib/l10n/arb/app_en.arb'
-    branches: [ main ]
+      - 'lib/l10n/app_en.arb'
+    branches: [ master ]
   schedule:
     - cron: '0 */12 * * *'
   workflow_dispatch: 
